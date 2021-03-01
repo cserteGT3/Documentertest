@@ -1,6 +1,6 @@
 using Pkg
 Pkg.activate("docs")
-Pkg.instantiate()
+#Pkg.instantiate()
 
 using LiveServer
 servedocs()
